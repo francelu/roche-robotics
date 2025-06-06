@@ -1,0 +1,9 @@
+seaborn
+stable-baselines3[extra]
+gymnasium
+matplotlib
+numpy
+Pillow
+habitat-sim
+magnum
+opencv-python
