@@ -1,0 +1,6 @@
+{
+  "render_asset": "TurtleBot4_Lite_model_with_red_ball.glb",
+  "scale": [1.0, 1.0, 1.0],
+  "mass": 5.0,
+  "use_bounding_box_for_collision": true
+}

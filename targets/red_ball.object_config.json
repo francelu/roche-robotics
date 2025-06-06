@@ -1,0 +1,5 @@
+{
+  "render_asset": "red_ball.glb",
+  "collision_asset": "red_ball.glb",
+  "scale": [1.0, 1.0, 1.0]
+}
