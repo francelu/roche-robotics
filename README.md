@@ -4,6 +4,7 @@ This is *Roche* group doing the COM-304 Communications project in robotics.
 ## Repository Structure
 
 - **`load/`** – Contains the main agent controller and executor files used to run the trained PPO model on the TurtleBot.
+- **`targets/`** – Contains the 3D model files (`.glb`) and their corresponding object configuration JSON files (`.object_config.json`) used as assets in the Habitat simulation environment.
 - **`Roche_Robotics.ipynb`** – Jupyter Notebook that documents the training process, model architecture, environment setup, and evaluation results for the PPO agent.
 - **`requirements.txt`** – Lists all Python dependencies needed to run the training, evaluation, and deployment scripts, including stable-baselines3, habitat-sim, gymnasium, and visualization libraries.
 
